@@ -1,0 +1,36 @@
+html, body {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #04a6eb;
+    color: #fdffff;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input {
+    height: 20px;
+}
+
+button {
+    padding: 3px 20px;
+    background-color: #337ab7;
+    border-style: none;
+    color: #fdffff;
+}
+
+#header {
+    text-align: center;
+    margin: auto;
+}
+
+.face {
+    color: red;
+}
+
+.back {
+    color: red;
+    opacity: .4;
+}
